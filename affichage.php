@@ -59,7 +59,7 @@
   }
   ?>
 
-  </tbody>
+  </tbody> 
 </table>
 
 </body>

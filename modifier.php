@@ -64,7 +64,7 @@ try {
 </form>
 
 </body>
-</html>
+</html>  
 
 <?php
 } catch(Exception $e) {

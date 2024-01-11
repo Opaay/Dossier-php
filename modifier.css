@@ -35,7 +35,7 @@ body {
     color: #0a0d0e;
     padding: 10px 20px;
     border: none;
-    border-radius: 300px; /* Arrondir les bords du bouton */
+    border-radius: 30px; /* Arrondir les bords du bouton */
     cursor: pointer;
   }
   
