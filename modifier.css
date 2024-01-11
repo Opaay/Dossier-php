@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+    background-color: #c895d438;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin-top: 0;
+    text-align: center; /* Centrer le titre */
+  }
+  
+  form {
+    margin: 0 auto;
+    width: 500px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px; /* Arrondir les bords du formulaire */
+  }
+  
+  label {
+    margin-bottom: 10px;
+    display: block; /* Placer les étiquettes sur des lignes distinctes */
+  }
+  
+  input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 30px; /* Arrondir les bords des champs de saisie */
+  }
+  
+  input[type="submit"] {
+    background-color: #a083cea9;
+    color: #0a0d0e;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 300px; /* Arrondir les bords du bouton */
+    cursor: pointer;
+  }
+  
