@@ -16,6 +16,7 @@
       <th>Âge</th>
       <th>Nationalité</th>
       <th>Modifier</th>
+      <th>Ma nouvelle ligne</th>
     </tr>
   </thead>
   <tbody>
